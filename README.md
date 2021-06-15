@@ -4,7 +4,8 @@ In this task we were asked to implement classes that constitute a polynomial and
 To realize the polynomial I first implemented the monom class.
  In the monom class the object has two fields, a coefficient and a power, the main constructor in the class receives as a parameter these two variables and with them allows the construction of the object.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![1](https://user-images.githubusercontent.com/44755169/122038413-3de84c80-cdde-11eb-90c6-ed96bee5d4a6.png)
+
 
 
 
