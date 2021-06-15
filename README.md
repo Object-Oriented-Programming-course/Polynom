@@ -49,14 +49,26 @@ The ROOT function allows the calculation of the root of a function that constitu
 ### Multiply and Subtract
 The Multiply function allows the polynomial to be multiplied by another polynomial, when the change is made to the original polynomial, multiplies one monom each time from the polynomial obtained as a parameter with the original polynomial and finally returns the updated polynomial after multiplication.
 The Subtract function accepts as another parameter a polynomial, in the first step it converts the polynomial coefficients obtained as a parameter to negative and then makes a connection between the two polynomials.
- 
+
+![7](https://user-images.githubusercontent.com/44755169/122038831-af27ff80-cdde-11eb-9be8-b03f66c85e68.png)
+
+
 ### ToString 
 The function prints the polynomial to the screen according to the structure defined for inserting a new polynomial.
 
-![7](https://user-images.githubusercontent.com/44755169/122038831-af27ff80-cdde-11eb-9be8-b03f66c85e68.png)
 ![8](https://user-images.githubusercontent.com/44755169/122038832-afc09600-cdde-11eb-8e86-d8d9fe871c7b.png)
-
+![9](https://user-images.githubusercontent.com/44755169/122038833-afc09600-cdde-11eb-8b12-d4b370167088.png)
 
 
 ### Area below
 The Area under function calculates the total area of ​​the function when it falls below the X-axis, the function calculates the area by raising Eps once the loop is run.
+
+![10](https://user-images.githubusercontent.com/44755169/122038835-b0592c80-cdde-11eb-96be-43046557f548.png)
+
+
+### Graph plot
+
+The above function is implemented in the polynomial class and allows the user to print a graph in a particular field, the function looks for additional extremes in that field and marks them on the graph.
+
+![11](https://user-images.githubusercontent.com/44755169/122038837-b0592c80-cdde-11eb-977b-e5bf0a9e04e8.png)
+![12](https://user-images.githubusercontent.com/44755169/122038823-ae8f6900-cdde-11eb-912a-e84e185e5364.png)
